@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/51d970b2-e47f-439a-bdb1-d124d814c422/AppServices/subscriptions/51d970b2-e47f-439a-bdb1-d124d814c422/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/msdocs-python-webapp-quickstart-KPA",
+    "appService.deploySubpath": "."
+}
